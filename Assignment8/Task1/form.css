@@ -1,0 +1,18 @@
+/*
+ * Name       : Aditya Kumar Maurya
+ * Roll No.   : 2510303042
+ * Assignment 8, Task 1 : Sign-Up Form
+ */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+label {
+    display: inline-block;
+    width: 110px;
+}
+
+div {
+    margin-bottom: 10px;
+}

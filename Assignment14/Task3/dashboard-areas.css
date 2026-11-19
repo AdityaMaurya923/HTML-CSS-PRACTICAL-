@@ -1,0 +1,23 @@
+/*
+ * Name       : Aditya Kumar Maurya
+ * Roll No.   : 2510303042
+ * Assignment 14, Task 3 : Named Areas
+ */
+body { font-family: Arial, sans-serif; margin: 20px; }
+
+.dashboard {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  grid-template-areas:
+    "header header"
+    "sidebar main"
+    "footer footer";
+  gap: 10px;
+  min-height: 300px;
+}
+
+.dashboard > div { padding: 20px; border: 1px solid #1d3557; }
+.header  { grid-area: header;  background-color: #a8dadc; }
+.sidebar { grid-area: sidebar; background-color: #f1faee; }
+.main    { grid-area: main;    background-color: #fff3cd; }
+.footer  { grid-area: footer;  background-color: #a8dadc; }

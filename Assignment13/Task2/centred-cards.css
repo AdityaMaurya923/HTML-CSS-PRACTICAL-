@@ -1,0 +1,24 @@
+/*
+ * Name       : Aditya Kumar Maurya
+ * Roll No.   : 2510303042
+ * Assignment 13, Task 2 : Centred Cards
+ */
+body { font-family: Arial, sans-serif; margin: 20px; }
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 220px;
+  border: 1px dashed #888;
+}
+
+.card {
+  background-color: #e8f0fe;
+  border: 2px solid #1d3557;
+  border-radius: 10px;
+  padding: 16px;
+  margin: 10px;
+  width: 150px;
+  text-align: center;
+}

@@ -1,0 +1,7 @@
+PS D:\My Space\Assignments\Assignment2\html-lab> git init --bare ../html-remote
+Initialized empty Git repository in D:/My Space/Assignments/Assignment2/html-remote/
+PS D:\My Space\Assignments\Assignment2\html-lab> git remote add origin ../html-remote
+PS D:\My Space\Assignments\Assignment2\html-lab> git remote -v
+origin	../html-remote (fetch)
+origin	../html-remote (push)
+PS D:\My Space\Assignments\Assignment2\html-lab> 

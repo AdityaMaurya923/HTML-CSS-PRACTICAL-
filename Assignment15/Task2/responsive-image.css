@@ -1,0 +1,11 @@
+/*
+ * Name       : Aditya Kumar Maurya
+ * Roll No.   : 2510303042
+ * Assignment 15, Task 2 : Responsive Image
+ */
+body { font-family: Arial, sans-serif; margin: 15px; }
+
+img {
+  max-width: 100%;
+  height: auto;
+}

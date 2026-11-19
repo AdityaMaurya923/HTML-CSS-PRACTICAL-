@@ -1,0 +1,17 @@
+/*
+ * Name       : Aditya Kumar Maurya
+ * Roll No.   : 2510303042
+ * Assignment 12, Task 1 : Box Sizing
+ */
+body { font-family: Arial, sans-serif; margin: 20px; }
+
+.box {
+  width: 200px;
+  padding: 20px;
+  border: 5px solid navy;
+  background-color: #dde6f5;
+  margin-bottom: 15px;
+}
+
+.content { box-sizing: content-box; }
+.border { box-sizing: border-box; }

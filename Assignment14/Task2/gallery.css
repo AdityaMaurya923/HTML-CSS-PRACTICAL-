@@ -1,0 +1,19 @@
+/*
+ * Name       : Aditya Kumar Maurya
+ * Roll No.   : 2510303042
+ * Assignment 14, Task 2 : Responsive Gallery
+ */
+body { font-family: Arial, sans-serif; margin: 20px; }
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+}
+
+.box {
+  background-color: #a8dadc;
+  border: 1px solid #1d3557;
+  padding: 20px;
+  text-align: center;
+}

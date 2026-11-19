@@ -1,0 +1,9 @@
+PS D:\My Space\Assignments\Assignment2\html-lab> cd ..
+PS D:\My Space\Assignments\Assignment2> git clone html-remote html-copy
+Cloning into 'html-copy'...
+done.
+PS D:\My Space\Assignments\Assignment2> cd html-copy
+PS D:\My Space\Assignments\Assignment2\html-copy> git log --oneline
+daba2fd Add next meeting heading
+7db73cc Add home page
+PS D:\My Space\Assignments\Assignment2\html-copy> 

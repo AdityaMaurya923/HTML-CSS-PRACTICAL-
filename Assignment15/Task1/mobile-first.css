@@ -1,0 +1,24 @@
+/*
+ * Name       : Aditya Kumar Maurya
+ * Roll No.   : 2510303042
+ * Assignment 15, Task 1 : Mobile-First Cards
+ */
+body { font-family: Arial, sans-serif; margin: 15px; }
+
+.card {
+  background-color: #e8f0fe;
+  border: 2px solid #1d3557;
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 12px;
+}
+
+@media (min-width: 600px) {
+  .cards {
+    display: flex;
+    gap: 12px;
+  }
+  .card {
+    flex: 1;
+  }
+}

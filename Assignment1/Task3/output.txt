@@ -1,0 +1,9 @@
+PS D:\My Space\Assignments\Assignment1\html-lab> Set-Content index.html "..."
+PS D:\My Space\Assignments\Assignment1\html-lab> git add index.html
+PS D:\My Space\Assignments\Assignment1\html-lab> git commit -m "Add next meeting heading"
+[master daba2fd] Add next meeting heading
+ 1 file changed, 1 insertion(+)
+PS D:\My Space\Assignments\Assignment1\html-lab> git log --oneline
+daba2fd Add next meeting heading
+7db73cc Add home page
+PS D:\My Space\Assignments\Assignment1\html-lab> 

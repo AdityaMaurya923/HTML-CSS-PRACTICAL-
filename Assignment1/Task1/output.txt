@@ -1,0 +1,11 @@
+PS D:\My Space\Assignments\Assignment1> mkdir html-lab
+PS D:\My Space\Assignments\Assignment1> cd html-lab
+PS D:\My Space\Assignments\Assignment1\html-lab> git init
+Initialized empty Git repository in D:/My Space/Assignments/Assignment1/html-lab/.git/
+PS D:\My Space\Assignments\Assignment1\html-lab> git config --local user.name "Aditya Kumar Maurya"
+PS D:\My Space\Assignments\Assignment1\html-lab> git config --local user.email "aditya.maurya@example.com"
+PS D:\My Space\Assignments\Assignment1\html-lab> git config user.name
+Aditya Kumar Maurya
+PS D:\My Space\Assignments\Assignment1\html-lab> git config user.email
+aditya.maurya@example.com
+PS D:\My Space\Assignments\Assignment1\html-lab> 

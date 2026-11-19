@@ -1,0 +1,11 @@
+/*
+ * Name       : Aditya Kumar Maurya
+ * Roll No.   : 2510303042
+ * Assignment 9, Task 2 : Table with Average
+ */
+body { font-family: Arial, sans-serif; margin: 20px; }
+table { border-collapse: collapse; }
+th, td { border: 1px solid #333; padding: 8px 16px; text-align: left; }
+thead { background: #dde6f5; }
+tfoot { background: #f0f0f0; font-weight: bold; }
+caption { font-weight: bold; margin-bottom: 8px; }

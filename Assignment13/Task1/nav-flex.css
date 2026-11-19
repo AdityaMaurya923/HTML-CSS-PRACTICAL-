@@ -1,0 +1,17 @@
+/*
+ * Name       : Aditya Kumar Maurya
+ * Roll No.   : 2510303042
+ * Assignment 13, Task 1 : Navigation Bar
+ */
+body { font-family: Arial, sans-serif; margin: 0; }
+
+nav {
+  display: flex;
+  background-color: #222;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 14px 20px;
+}

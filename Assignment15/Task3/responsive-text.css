@@ -1,0 +1,20 @@
+/*
+ * Name       : Aditya Kumar Maurya
+ * Roll No.   : 2510303042
+ * Assignment 15, Task 3 : Responsive Text
+ */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 1rem;
+  margin: 15px;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+@media (min-width: 600px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+}
